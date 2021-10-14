@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/account"
+        android:title="Account"
+        android:icon="@drawable/ic_account"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/holder"
+        android:title=""
+        app:showAsAction="ifRoom"
+        android:enabled="false"/>
+    <item
+        android:id="@+id/help"
+        android:title="Help"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_help"/>
+    <item
+        android:id="@+id/power"
+        android:title="Exit"
+        android:icon="@drawable/ic_power"
+        app:showAsAction="ifRoom"/>
+
+</menu>
