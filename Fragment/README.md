@@ -1,12 +1,12 @@
-Nama  : Cindy Oktaviani Eka Prasasti
+Nama  : Selviatun Hasanah
 
-NIM   : E41200289
+NIM   : E41201115
 
 Prodi : Teknik Informatika
 
-Gol   : A
+Gol   : B Bondowoso
 
-TUGAS MINGGU 5 ( BUTTOM NAVIGATION )
+TUGAS MINGGU 5 ( FRAGMENT DAN BUTTOM NAVIGATION )
 
 HASIL PEMBAHASAN :
 
